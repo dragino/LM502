@@ -1,7 +1,11 @@
-1、LM502 LoRaWAN Module v1.0: Firmware to use LM502 as a LoRaWAN AT Command module. 
+1、LM502 LoRaWAN Module v1.0: 
+	* Shipped firmware for LM502 and LM502-Demo-Board
+	* Firmware to use LM502 as a LoRaWAN AT Command module. 
 	* Doesn't support any sensor
 	* Need external MCU to use AT command to start LoRaWAN
-2、LM502 LoRaWAN Sensor Node v1.0: Firmware to use LM502 as a standalone module. 
+	
+2、LM502 LoRaWAN Sensor Node v1.0: 
+	*Firmware to use LM502 as a standalone module. 
 	* Support various sensors
 	* no need external MCU
 
